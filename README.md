@@ -1,6 +1,6 @@
 # Threat Intelligence API
 
-FastAPI tool, integrated with **AbuseIPDB** and **VirusTotal** to give you one clean report on any ip address.
+FastAPI tool, integrated with **AbuseIPDB** and **VirusTotal** to give you one clean report on any ip address. Adapted from work for simplicity and betterment of the world.
 
 ## Features
 * **Async Logic:** No waiting during multiple calls
